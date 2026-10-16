@@ -50,6 +50,7 @@ Acientcuisine/
 │   │   ├── Task/               # 任务管理器与阶段枚举
 │   │   └── TaskObject/         # 食材、器具、场景交互物和交互摄像机
 │   ├── ThirdPerson/            # 主地图、玩家角色、GameMode、输入资源
+│   ├── buildings/		#存储主要的搭建地图的模型素材
 │   ├── UI/                     # 对话、任务、交互提示、书籍、烹饪、数独界面
 │   ├── Pictures/               # 界面图片资源
 │   ├── Font/                   # 字体资产
